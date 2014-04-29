@@ -1,0 +1,2 @@
+invokedynamic-test
+==================
